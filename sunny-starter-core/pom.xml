@@ -21,7 +21,7 @@
         <commons.codec.version>1.9</commons.codec.version>
         <commons.lang3.version>3.6</commons.lang3.version>
         <guava.version>23.0</guava.version>
-        <jackson.databind>2.6.6</jackson.databind>
+        <jackson.databind>2.9.10.8</jackson.databind>
     </properties>
 
     <dependencies>
